@@ -1,37 +1,4 @@
-    <style>
-        body {
-            background-color: rgb(0, 1, 41);
-            /* Fondo azul */
-            color: #fff;
-            /* Texto blanco */
-            font-family: 'Arial', sans-serif;
-            /* Fuente legible */
-            text-align: center;
-            /* Centrar texto */
-            padding: 20px;
-            /* Espaciado interior */
-        }
-
-        h1 {
-            color: #ffff;
-            /* Color rojo para el texto del nombre */
-        }
-
-        p {
-            margin: 10px 0;
-            /* Margen para separar líneas */
-        }
-
-        img {
-            display: block;
-            /* Centrar la imagen */
-            margin: auto;
-            /* Margen automático */
-        }
-    </style>
-
-
-    <h1>### Hi there 👋 My name is <strong><span style="color: red;">D</span>iego <span
+       <h1>### Hi there 👋 My name is <strong><span style="color: red;">D</span>iego <span
                 style="color: red;">A</span>lias</strong>
     </h1>
 
@@ -46,6 +13,4 @@
     <h3><b>Visitor's Count</b></h3>
     <img src="https://profile-counter.glitch.me/%7BDiegoAlias04%7D/count.svg" alt="visitor badge" />
 
-</body>
 
-</html>
