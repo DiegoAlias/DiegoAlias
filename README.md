@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Profile</title>
-
     <style>
         body {
             background-color: rgb(0, 1, 41);
@@ -37,9 +29,7 @@
             /* Margen automático */
         }
     </style>
-</head>
 
-<body>
 
     <h1>### Hi there 👋 My name is <strong><span style="color: red;">D</span>iego <span
                 style="color: red;">A</span>lias</strong>
