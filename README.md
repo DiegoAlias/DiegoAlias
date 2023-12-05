@@ -21,6 +21,10 @@
 
 <br/>
 
+
+![Apurv's github stats](https://github-readme-stats.vercel.app/api?username={DiegoAlias}&theme=blue-green)
+
+
 ### :link: &nbsp;Connect with me
 
 <p align="center">
