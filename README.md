@@ -23,7 +23,7 @@
 
 ### :link: &nbsp;Connect with me
 
-
+<p align="center">
   
 <a href="https://portafolio-diego-alias.vercel.app"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 <a href="https://linkedin.com/in/diego-seba-alias"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -32,7 +32,9 @@
 <a href="https://web.telegram.org/k/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://web.whatsapp.com/"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
+</p> 
 
+ 
 ---
 Credit: [DiegoAlias](https://github.com/DiegoAlias)
 
