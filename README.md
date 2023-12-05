@@ -28,10 +28,9 @@
 
 <p align="center">
   
-<a href="https://portafolio-diego-alias.vercel.app"><img src="https://img.shields.io/badge/-portafolio-diego-alias.vercel.app-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://portafolio-diego-alias.vercel.app"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 
 <a href="https://linkedin.com/in/diego-seba-alias"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
                                                              
 <a href="mailto:diegoaliasm10@gmail.com"><img src="https://img.shields.io/badge/-diegoaliasm10@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>                      
 
