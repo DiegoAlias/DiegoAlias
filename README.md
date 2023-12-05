@@ -8,6 +8,7 @@
 <h3 align="center"><b>Visitor's Count</b></h3>
 <p align="center"><img src="https://profile-counter.glitch.me/%7BDiegoAlias%7D/count.svg" alt="visitor badge"/></p>
 
+<br/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -15,7 +16,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,bootstrap,css,html,java,js,react,vite,py,discord,docker,git,github,mongodb,mysql,nextjs,nodejs,postman,tailwind,ts,blender,threejs,unityvscode,idea&perline=14" />
+    <img src="https://skillicons.dev/icons?i=azure,bootstrap,css,html,java,js,react,vite,py,discord,docker,git,github,mongodb,mysql,nextjs,nodejs,postman,tailwind,ts,blender,threejs,unity,vscode,idea&perline=14" />
   </a>
 </p>
 
@@ -23,7 +24,7 @@
 
 ### :link: &nbsp;Connect with me
 
-<p align="center">
+
   
 <a href="https://portafolio-diego-alias.vercel.app"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 
@@ -38,7 +39,7 @@
 <a href="https://web.whatsapp.com/"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 
-</p>
+
 
 ---
 Credit: [DiegoAlias](https://github.com/DiegoAlias)
