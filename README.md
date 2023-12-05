@@ -11,12 +11,15 @@
 
 ### 🛠 &nbsp;Tech Stack
 
+<br/>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,bootstrap,css,html,java,js,react,vite,py,discord,docker,git,github,mongodb,mysql,nextjs,nodejs,postman,tailwind,ts,vscode,idea&perline=14" />
+    <img src="https://skillicons.dev/icons?i=azure,bootstrap,css,html,java,js,react,vite,py,discord,docker,git,github,mongodb,mysql,nextjs,nodejs,postman,tailwind,ts,blender,threejs,unityvscode,idea&perline=14" />
   </a>
 </p>
 
+<br/>
 
 ### :link: &nbsp;Connect with me
 
