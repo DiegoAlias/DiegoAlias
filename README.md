@@ -9,7 +9,7 @@
 
 <br/>
 
-<h3>### 🛠️ Tech Stack</h3>
+<h3> 🛠️ Tech Stack</h3>
 
 <br/>
 
@@ -21,14 +21,19 @@
 
 <br/>
 
-<h3>### 💻 Profile Stats</h3>
+<h3> 💻 Profile Stats</h3>
 
+<br/>
 
 <img alt="DiegoAlias Github Stats" src="https://github-readme-stats.vercel.app/api/?username=DiegoAlias&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="DiegoAlias Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoAlias&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 
 
-<h3>### 🔗 Connect with me</h3>
+<br/>
 
+<h3>🔗 Connect with me</h3>
+
+
+<br/>
 
 <p align="center">
   
